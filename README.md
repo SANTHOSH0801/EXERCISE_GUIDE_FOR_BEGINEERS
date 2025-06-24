@@ -23,9 +23,8 @@ An interactive **web-based exercise guide** built using **React.js** for the fro
 | Layer      | Technology           |
 |------------|----------------------|
 | Frontend   | React.js             |
-| Computer Vision | OpenCV.js (or OpenCV Python if backend included) |
-| Styling    | CSS / Tailwind CSS   |
-| Deployment | Vercel / Netlify     |
+| Computer Vision | OpenCV.js       |
+| Styling    | CSS                  |
 
 ---
 
