@@ -2,6 +2,8 @@
 
 An interactive **web-based exercise guide** built using **React.js** for the frontend and **OpenCV** for real-time computer vision functionality. This project helps beginners follow and perform exercises correctly using visual guidance and pose detection.
 
+🎥 **Demo Video**: [Watch Output Video](https://drive.google.com/file/d/18ki33RvrOC6rBTHYv6f1yz6KLqlQdK7w/view?usp=sharing)
+
 ---
 
 ## 🚀 Features
