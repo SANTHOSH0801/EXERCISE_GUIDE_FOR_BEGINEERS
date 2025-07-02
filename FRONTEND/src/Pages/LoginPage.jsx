@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
-import image1 from 'src/assets/gif1.gif'
+import image1 from '../assets/gif1.gif'
+import image2 from '/src/assets/cover6.jpg'
 
 function LoginPage() {
   const [inputs, setInputs] = useState({})
@@ -98,7 +99,7 @@ function LoginPage() {
           {/* Right Side - Image */}
           <div className="md:w-1/2 hidden md:block">
             <img
-              src="/src/assets/cover6.jpg"
+              src={image2}
               alt="Login visual"
               className="w-full h-full object-cover object-left"
             />
