@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
+import image1 from 'src/assets/gif1.gif'
+
 function LoginPage() {
   const [inputs, setInputs] = useState({})
 
@@ -21,7 +23,7 @@ function LoginPage() {
     <>
       <header className="flex justify-between items-center px-10 py-6">
         <img
-          src="src/assets/gif1.gif"
+          src={image1}
           alt="Gold's Gym Logo"
           className="w-14 h-14"
         />
