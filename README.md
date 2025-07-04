@@ -31,7 +31,10 @@ An interactive **web-based exercise guide** built using **React.js** for the fro
 ---
 
 ## 🧑‍💻 How to Run the Project
-
+Set Up & Activate Python Virtual Environment (Backend)
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.tx
 ---
 
 ### ▶️ Frontend (React)
