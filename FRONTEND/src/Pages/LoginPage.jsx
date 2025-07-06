@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
 import image1 from '../assets/gif1.gif'
-import image2 from '/src/assets/cover6.jpg'
+import image2 from "../assets/cover6.jpg"
 
 function LoginPage() {
   const [inputs, setInputs] = useState({})
